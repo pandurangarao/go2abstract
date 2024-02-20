@@ -174,7 +174,7 @@
 
 
 
-@media only screen and (max-width: 991px){
+/* @media only screen and (max-width: 991px){ */
 
   .sticky-header{
     display: none;
@@ -441,7 +441,7 @@
   }
 
 
-}
+/* } */
 
 
 @media only screen and (max-width: 767px){
@@ -833,7 +833,7 @@
 
 /* =============== Mobile menu ===================== */
 
-@media only screen and (max-width: 991px) {
+/* @media only screen and (max-width: 991px) { */
   .header-top .links-nav li{
     margin-right: 15px;
   } 
@@ -969,4 +969,4 @@
     display:none !important;  
   }
 
-}
+/* } */
