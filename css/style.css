@@ -79,6 +79,12 @@ a:focus {
   .container {
     max-width: 1200px;
   }
+  .main-navigation{
+    height: 110px !important;
+  } 
+  .clearfix{
+    height: 110px !important;
+  }
 }
 
 hr.style-one {
@@ -4976,3 +4982,11 @@ textarea.leave-comment__input {
 .pricing-two__popular .pricing-two__amount span {
   color: var(--thm-base-color);
 }
+
+/* .clearfix{
+  height: 110px !important;
+} */
+
+/* .main-navigation{
+  height: 110px !important;
+} */
