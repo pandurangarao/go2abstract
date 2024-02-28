@@ -4415,7 +4415,7 @@ textarea.leave-comment__input {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background-color: var(--thm-base-color);
+  background-color: var(--thm-black-color);
   position: absolute;
   top: 50%;
   left: 0;
@@ -4429,7 +4429,7 @@ textarea.leave-comment__input {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background-color: var(--thm-base-color);
+  background-color: var(--thm-black-color);
   position: absolute;
   top: 50%;
   left: 0;
