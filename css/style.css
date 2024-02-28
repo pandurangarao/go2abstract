@@ -46,7 +46,7 @@
 
 body {
   font-family: var(--thm-font);
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
   font-size: 15px;
   line-height: 26px;
 }
@@ -128,7 +128,7 @@ hr.style-one {
 
 .post-filter li span {
   cursor: pointer;
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
   font-family: var(--heading-font);
   font-weight: 500;
   -webkit-transition: all .4s ease;
@@ -956,7 +956,7 @@ hr.style-one {
 
 .topbar-one__light .topbar-one__right-info li,
 .topbar-one__light .topbar-one__left-text {
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
 }
 
 /*
@@ -1400,7 +1400,7 @@ hr.style-one {
 .blog-details__text {
   font-size: 15px;
   line-height: 26px;
-  color: #848484;
+  color: #000;
   margin: 0;
   margin-bottom: 25px;
 }
@@ -1432,7 +1432,7 @@ hr.style-one {
 }
 
 .blog-tags-list a {
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
   font-size: 17px;
   line-height: 1em;
   margin-left: 10px;
@@ -2225,25 +2225,25 @@ textarea.leave-comment__input {
 .contact-one__form input::-webkit-input-placeholder,
 .contact-one__form textarea::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
 }
 
 .contact-one__form input::-moz-placeholder,
 .contact-one__form textarea::-moz-placeholder {
   /* Firefox 19+ */
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
 }
 
 .contact-one__form input:-ms-input-placeholder,
 .contact-one__form textarea:-ms-input-placeholder {
   /* IE 10+ */
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
 }
 
 .contact-one__form input:-moz-placeholder,
 .contact-one__form textarea:-moz-placeholder {
   /* Firefox 18- */
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
 }
 
 .contact-one__form input.error,
@@ -2293,7 +2293,7 @@ textarea.leave-comment__input {
 .contact-one__form .bootstrap-select > .dropdown-toggle {
   padding: 12px 20px;
   background-color: #fff;
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
   border-radius: 0;
   border: none;
 }
@@ -2329,7 +2329,7 @@ textarea.leave-comment__input {
 
 .contact-info-one__label {
   margin: 0;
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
   font-size: 15px;
   font-weight: 500;
   font-family: var(--heading-font);
@@ -2515,7 +2515,7 @@ textarea.leave-comment__input {
   left: 0;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
-  background-color: #dcdde0;
+  background-color: #000;
 }
 
 .sidebar__cat-list li a {
@@ -2550,7 +2550,7 @@ textarea.leave-comment__input {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
@@ -3092,7 +3092,7 @@ textarea.leave-comment__input {
   margin: 0;
   font-size: 15px;
   line-height: 26px;
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
 }
 
 .service-three__link {
@@ -3162,7 +3162,7 @@ textarea.leave-comment__input {
 
 .services-details__content-info-text {
   margin: 0;
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
   font-size: 15px;
   line-height: 26px;
   margin-bottom: 10px;
@@ -3179,7 +3179,7 @@ textarea.leave-comment__input {
 
 .services-details__content-text {
   margin: 0;
-  color: #848484;
+  color: #000;
   font-size: 15px;
   line-height: 26px;
 }
@@ -3362,7 +3362,7 @@ textarea.leave-comment__input {
 .testimonials-two__title span {
   font-weight: 400;
   font-size: 15px;
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
 }
 
 .testimonials-one__stars,
@@ -3878,7 +3878,7 @@ textarea.leave-comment__input {
 
 .case-details__content-text {
   margin: 0;
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
   font-size: 15px;
   line-height: 26px;
 }
@@ -3896,7 +3896,7 @@ textarea.leave-comment__input {
 
 .case-details__content-list li {
   font-size: 16px;
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
   position: relative;
   padding-left: 30px;
 }
@@ -3984,7 +3984,7 @@ textarea.leave-comment__input {
 }
 
 [class*=case-details__pagination-link-] i {
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
   opacity: 0.3;
   -webkit-transition: all .4s ease;
   transition: all .4s ease;
@@ -4095,7 +4095,7 @@ textarea.leave-comment__input {
 .team-one__designation {
   text-transform: uppercase;
   margin: 0;
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
   font-size: 14px;
   font-weight: 500;
 }
@@ -4376,7 +4376,7 @@ textarea.leave-comment__input {
   margin: 0;
   font-size: 15px;
   line-height: 26px;
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
 }
 
 .about-two__list,
@@ -4388,7 +4388,14 @@ textarea.leave-comment__input {
 
 .about-two__list-item,
 .about-one__list-item {
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
+  font-size: 15px;
+  position: relative;
+  padding-left: 20px;
+}
+.doc-two__list-item,
+.doc-one__list-item {
+  color: var(--thm-base-color);
   font-size: 15px;
   position: relative;
   padding-left: 20px;
@@ -4408,7 +4415,21 @@ textarea.leave-comment__input {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background-color: #dcdde0;
+  background-color: var(--thm-base-color);
+  position: absolute;
+  top: 50%;
+  left: 0;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.doc-two__list-item:before,
+.doc-one__list-item:before {
+  content: '';
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: var(--thm-base-color);
   position: absolute;
   top: 50%;
   left: 0;
@@ -4766,7 +4787,7 @@ textarea.leave-comment__input {
   font-size: 15px;
   line-height: 26px;
   margin: 0;
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
 }
 
 .faq-one__block {
@@ -4946,7 +4967,7 @@ textarea.leave-comment__input {
 .pricing-two__text {
   font-size: 15px;
   line-height: 26px;
-  color: var(--thm-text-color);
+  color: var(--thm-black-color);
   margin: 0;
   margin-bottom: 25px;
   margin-top: 15px;
