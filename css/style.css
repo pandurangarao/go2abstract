@@ -1008,7 +1008,7 @@ hr.style-one {
   margin: 0;
   color: #fff;
   font-family: var(--heading-font);
-  font-size: 60px;
+  font-size: 25px;
   line-height: 70px;
   font-weight: 600;
   -webkit-animation-duration: 3s;
@@ -1793,6 +1793,11 @@ textarea.leave-comment__input {
 .cta-four__btn-one {
   background-color: var(--thm-primary-color);
   margin-right: 20px;
+}
+
+.cta-four{
+  padding-top: 110px;
+  padding-bottom: 210px;
 }
 
 /*
