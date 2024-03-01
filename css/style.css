@@ -4400,7 +4400,7 @@ textarea.leave-comment__input {
 }
 .doc-two__list-item,
 .doc-one__list-item {
-  color: var(--thm-base-color);
+  color: var(--thm-black-color);
   font-size: 15px;
   position: relative;
   padding-left: 20px;
