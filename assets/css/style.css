@@ -164,7 +164,7 @@ html{
     display: inherit; 
 }
 .navbar-nav .nav-item a{
-    font-size: 16px;
+    font-size: 14px;
     line-height: 16px;
     font-weight: 600;
     font-family: 'Quicksand', sans-serif;
@@ -1502,7 +1502,7 @@ textarea {
     margin-bottom: 0;
 }
 .footer-section ul li a {
-    font-size: 14px;
+    font-size: 13px;
     line-height: 22px;
     font-weight: 400;
     color: var(--e-global-color-white);
