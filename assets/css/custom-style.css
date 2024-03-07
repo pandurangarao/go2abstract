@@ -7,9 +7,9 @@ body {
 
 :root {
     --e-global-color-primary: #0f0d1d;
-    --e-global-color-secondary: #a164ff;
+    --e-global-color-secondary: #4fc0fc;
     --e-global-color-text: #000000;
-    --e-global-color-accent: #a164ff;
+    --e-global-color-accent: #4fc0fc;
 	--e-global-color-white: #ffffff;
     --e-global-color-dark-grayish: #726f84;
     --e-global-color-dark-gray: #9a9a9a;
@@ -17,7 +17,7 @@ body {
     --e-global-color-cool-dark-gray: #8a8a8a;
     --e-global-color-mostly-black: #121212;
     --e-global-color-very-dark-violet: #0f0223;
-    --e-global-color-soft-violet: #9359ee;
+    --e-global-color-soft-violet: #3283B0;
 }
 a {
 	outline:none;

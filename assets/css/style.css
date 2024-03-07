@@ -692,7 +692,7 @@ html{
 .services_section .services_box .services_box_content{
     position: absolute;
     transition: all 0.3s ease-in-out;
-    background-color: #4d3b68;
+    background-color: #41677b;
     text-align: center;
     padding: 40px 25px 20px;
     border-radius: 10px;
@@ -2678,3 +2678,30 @@ textarea {
     background-color: var(--e-global-color-white);
     position: unset;
 }
+
+.list-unstyled strong{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 22px;
+    line-height: 26px;
+    font-weight: 600;
+    color: var(--e-global-color-soft-violet);
+    letter-spacing: -0.2px;
+}
+
+.insurance_consultancy_content_wrapper ul li i {
+    border: 1px solid var(--e-global-color-accent);
+    border-radius: 3px;
+    background-color: transparent;
+    color: var(--e-global-color-accent);
+    font-size: 18px;
+    line-height: 18px;
+    height: 18px;
+    width: 18px;
+    padding: 0 3px;
+    margin-right: 10px;
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+    border-top-style: none;
+    border-right-style: none;
+}
+    
