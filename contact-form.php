@@ -5,9 +5,9 @@
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-require 'C:\xampp\htdocs\Soni-pro.github.io-main\PHPMailer\vendor\phpmailer\phpmailer\src\Exception.php';
-require 'C:\xampp\htdocs\Soni-pro.github.io-main\PHPMailer\vendor\phpmailer\phpmailer\src\PHPMailer.php';
-require 'C:\xampp\htdocs\Soni-pro.github.io-main\PHPMailer\vendor\phpmailer\phpmailer\src\SMTP.php';
+require './PHPMailer/vendor/phpmailer/phpmailer/src/Exception.php';
+require './PHPMailer/vendor/phpmailer/phpmailer/src/PHPMailer.php';
+require './PHPMailer/vendor/phpmailer/phpmailer/src/SMTP.php';
 
 // Include or define the insert() function
 // For the purpose of this example, I'll define a dummy insert() function
