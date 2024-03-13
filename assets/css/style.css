@@ -1900,10 +1900,10 @@ textarea {
     line-height: 25px;
 }
 .business_turn_bond_communicate_section .business_turn_bond_communicate_content ul li{
-    font-family: 'Quicksand', sans-serif;
-    font-size: 16px;
+    /* font-family: 'Quicksand', sans-serif; */
+    font-size: 14px;
     line-height: 16px;
-    font-weight: 500;
+    /* font-weight: 500; */
     color: var(--e-global-color-text);
     margin-bottom: 14px;
     transition: all 0.3s ease-in-out;
@@ -2736,4 +2736,8 @@ textarea {
 .muncipallien-img-align{
     width: 540px;
     height: 360px;
+}
+
+.img-footer{
+    width: 150px;
 }
