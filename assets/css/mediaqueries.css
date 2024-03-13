@@ -279,7 +279,7 @@
         width: 231px;
     }
 }
-@media screen and (max-width: 1440px){
+/* @media screen and (max-width: 1440px){ */
     .main-header {
         padding: 0 20px 0 30px;
     }
@@ -412,7 +412,8 @@
     .aboutus_company_section .top_shape {
         top: 0;
     }
-}
+/* } */
+
 
 @media screen and (max-width: 1199px){
     .main-header {
@@ -3715,3 +3716,11 @@
         padding: 68px 0 60px;
     }
 }
+
+.main-header .navbar_background {
+
+    left: 170px;
+
+       
+}
+
