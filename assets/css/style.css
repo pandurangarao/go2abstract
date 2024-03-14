@@ -119,10 +119,6 @@ html{
     scroll-behavior: smooth;
 }
 
-.top_bottom_shape img {
-    -webkit-animation: mover 1s infinite  alternate;
-    animation: mover 1s infinite  alternate;
-}
 @-webkit-keyframes mover {
     0% { transform: translateY(0); }
     100% { transform: translateY(-30px); }
